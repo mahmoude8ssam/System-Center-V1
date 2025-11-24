@@ -1,0 +1,31 @@
+# تجاهل ملفات الكومبايل أو المؤقتة
+*.exe
+*.o
+*.obj
+*.log
+
+# تجاهل مجلدات الإعدادات
+.vscode/
+.idea/
+release/
+debug/
+include/
+.qtc_clangd/
+src/
+output/
+
+# تجاهل ملفات النظام
+.DS_Store
+Thumbs.db
+
+# تجاهل ملفات الـ API keys أو config حساسة
+config.ini
+.env
+
+*.txt
+*.db
+makefile
+*.Debug
+*.Release
+*.stash
+

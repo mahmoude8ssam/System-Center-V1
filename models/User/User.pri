@@ -1,0 +1,3 @@
+
+HEADERS += \
+    $$PWD/User.h
